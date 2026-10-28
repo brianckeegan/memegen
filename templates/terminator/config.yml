@@ -1,0 +1,39 @@
+name: Anime Girl Hiding from Terminator
+source: https://knowyourmeme.com/memes/anime-girl-hiding-from-a-terminator
+keywords:
+  - T-800
+  - The Idolmaster
+  - Nono Morikubo
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.42
+    anchor_y: 0.53
+    angle: 0.0
+    scale_x: 0.56
+    scale_y: 0.12
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.24
+    angle: 0.0
+    scale_x: 0.38
+    scale_y: 0.18
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - me
+  - my responsibilities
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
