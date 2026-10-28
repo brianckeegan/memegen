@@ -1,0 +1,63 @@
+name: Boardroom Meeting Suggestion
+source: https://knowyourmeme.com/memes/boardroom-suggestion
+keywords:
+  - Boardroom Suggestion
+  - Thrown Out the Window
+  - Business Meeting
+text:
+  - style: default
+    color: black
+    font: comic
+    anchor_x: 0.31
+    anchor_y: 0.015
+    angle: 0.0
+    scale_x: 0.6
+    scale_y: 0.08
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: comic
+    anchor_x: 0.05
+    anchor_y: 0.383
+    angle: 0.0
+    scale_x: 0.2
+    scale_y: 0.042
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: comic
+    anchor_x: 0.34
+    anchor_y: 0.392
+    angle: 0.0
+    scale_x: 0.14
+    scale_y: 0.044
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: comic
+    anchor_x: 0.61
+    anchor_y: 0.395
+    angle: 0.0
+    scale_x: 0.28
+    scale_y: 0.075
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - how can we get more done?
+  - more meetings
+  - longer meetings
+  - fewer meetings
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
