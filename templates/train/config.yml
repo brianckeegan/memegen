@@ -1,0 +1,38 @@
+name: Train Hitting School Bus
+source: https://knowyourmeme.com/memes/train-hitting-school-bus
+keywords:
+  - Train Crash
+  - Railroad Crossing
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.1
+    anchor_y: 0.58
+    angle: 0.0
+    scale_x: 0.42
+    scale_y: 0.1
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.52
+    anchor_y: 0.7
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.1
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - a single typo
+  - the production build
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
