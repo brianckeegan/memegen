@@ -1,0 +1,39 @@
+name: I'm Something of a Scientist Myself
+source: https://knowyourmeme.com/memes/im-something-of-a-scientist-myself
+keywords:
+  - Willem Dafoe
+  - Norman Osborn
+  - Spider-Man
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.8
+    angle: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - mixes two energy drinks
+  - you know, I'm something of a scientist myself
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
