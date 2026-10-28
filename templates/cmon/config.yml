@@ -1,0 +1,38 @@
+name: C'mon, Do Something
+source: https://knowyourmeme.com/memes/cmon-do-something
+keywords:
+  - White Ninja
+  - Poking With a Stick
+text:
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.3
+    anchor_y: 0.03
+    angle: 0.0
+    scale_x: 0.68
+    scale_y: 0.24
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.46
+    anchor_y: 0.6
+    angle: 0.0
+    scale_x: 0.52
+    scale_y: 0.24
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - c'mon, do something
+  - my motivation
+overlay:
+  - center_x: 0.72
+    center_y: 0.72
+    angle: 0.0
+    scale: 0.4
+    start: 0.0
+    stop: 1.0
