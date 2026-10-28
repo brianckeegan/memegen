@@ -1,0 +1,27 @@
+name: Awkward Look Monkey Puppet
+source: https://knowyourmeme.com/memes/awkward-look-monkey-puppet
+keywords:
+  - Side Eye
+  - Looking Away
+  - Nervous
+text:
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 0.96
+    scale_y: 0.34
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - when the teacher asks who hasn't turned in their homework
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
