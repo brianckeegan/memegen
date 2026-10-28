@@ -1,0 +1,51 @@
+name: Two Paths
+source: https://knowyourmeme.com/memes/dramatic-crossroads
+keywords:
+  - Dramatic Crossroads
+  - Two Roads
+  - Yu-Gi-Oh
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.02
+    anchor_y: 0.02
+    angle: 0.0
+    scale_x: 0.44
+    scale_y: 0.24
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.54
+    anchor_y: 0.02
+    angle: 0.0
+    scale_x: 0.44
+    scale_y: 0.24
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.2
+    anchor_y: 0.84
+    angle: 0.0
+    scale_x: 0.6
+    scale_y: 0.15
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - go to bed early
+  - one more episode
+  - me at midnight
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
