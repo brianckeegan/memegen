@@ -1,0 +1,62 @@
+name: Grim Reaper Knocking on Door
+source: https://knowyourmeme.com/memes/death-knocking-on-doors
+keywords:
+  - Grim Reaper
+  - Death Knocking on Doors
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.04
+    anchor_y: 0.3
+    angle: 0.0
+    scale_x: 0.19
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.29
+    anchor_y: 0.3
+    angle: 0.0
+    scale_x: 0.19
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.5
+    anchor_y: 0.62
+    angle: 0.0
+    scale_x: 0.24
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.69
+    anchor_y: 0.3
+    angle: 0.0
+    scale_x: 0.22
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - flip phones
+  - mp3 players
+  - smartphones
+  - wristwatches
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
