@@ -1,0 +1,39 @@
+name: The Rock Driving
+source: https://knowyourmeme.com/memes/the-rock-driving
+keywords:
+  - Dwayne Johnson
+  - Race to Witch Mountain
+  - Car Conversation
+text:
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.57
+    anchor_y: 0.055
+    angle: 0.0
+    scale_x: 0.4
+    scale_y: 0.145
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.59
+    anchor_y: 0.385
+    angle: 0.0
+    scale_x: 0.385
+    scale_y: 0.135
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - what's your password?
+  - password123
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
