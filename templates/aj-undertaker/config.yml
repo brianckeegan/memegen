@@ -1,0 +1,39 @@
+name: AJ Styles & Undertaker
+source: https://knowyourmeme.com/memes/undertaker-standing-behind-aj-styles
+keywords:
+  - Undertaker Standing Behind AJ Styles
+  - WWE
+  - WrestleMania
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.02
+    anchor_y: 0.6
+    angle: 0.0
+    scale_x: 0.4
+    scale_y: 0.25
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.5
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 0.48
+    scale_y: 0.18
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - me enjoying the weekend
+  - Monday
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
