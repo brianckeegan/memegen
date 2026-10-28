@@ -1,0 +1,63 @@
+name: Putting on Clown Makeup
+source: https://knowyourmeme.com/memes/putting-on-clown-makeup
+keywords:
+  - Clown Applying Makeup
+  - Clown Makeup Tutorial
+  - Clown
+text:
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.02
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.21
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.27
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.21
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.52
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.21
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.77
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.21
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - i'll just check my phone for a minute
+  - one more video won't hurt
+  - it's only 2 am
+  - i'll be fine tomorrow
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
