@@ -1,0 +1,50 @@
+name: Surprised Pikachu
+source: https://knowyourmeme.com/memes/surprised-pikachu
+keywords:
+  - Pokemon
+  - Shocked
+text:
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.03
+    anchor_y: 0.02
+    angle: 0.0
+    scale_x: 0.94
+    scale_y: 0.11
+    align: left
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.03
+    anchor_y: 0.14
+    angle: 0.0
+    scale_x: 0.94
+    scale_y: 0.11
+    align: left
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.03
+    anchor_y: 0.26
+    angle: 0.0
+    scale_x: 0.94
+    scale_y: 0.11
+    align: left
+    start: 0.0
+    stop: 1.0
+example:
+  - 'me: puts off homework all weekend'
+  - 'the homework: is still due on Monday'
+  - 'me:'
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
