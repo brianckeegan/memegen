@@ -1,0 +1,38 @@
+name: Sleeping Shaq
+source: https://knowyourmeme.com/memes/sleeping-shaq
+keywords:
+  - Shaquille O'Neal
+  - I Sleep
+text:
+  - style: none
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.03
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.47
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: none
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.56
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.41
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - alarm goes off
+  - someone says free pizza
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
