@@ -1,0 +1,62 @@
+name: Buff Doge vs. Cheems
+source: https://knowyourmeme.com/memes/swole-doge-vs-cheems
+keywords:
+  - Swole Doge
+  - Shiba Inu
+text:
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.115
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.52
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.115
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.75
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.23
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.52
+    anchor_y: 0.75
+    angle: 0.0
+    scale_x: 0.46
+    scale_y: 0.23
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - developers in 1985
+  - developers today
+  - i fit a whole game in 64k of memory
+  - my to-do app needs 2 gigs of ram
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
+    start: 0.0
+    stop: 1.0
